@@ -12,6 +12,7 @@ class LanguageTranslatorApp:
         self.root = root
         self.root.title("Language Translator")
         self.root.iconbitmap("doan\languages.ico")
+        self.root.resizable(width=False, height=False)
 
         self.translator = Translator()  
         self.languages = {lang: code for code, lang in LANGUAGES.items()} # Mapping language names to language codes

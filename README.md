@@ -9,3 +9,9 @@ Trong đó:
 2. Tkinter là thư viện dùng làm giao diện cho người dùng (GUI)
 3. TextBlob là thư viện kiểm tra tính tiêu cực hay tích cực của câu người dùng nhập
 4. Gtts là thư viện chuyển từ vựng thành âm thanh và phát lại dưới dạng file mp3
+
+Đây là dự án nhóm 4 người bao gồm:
+1. Nguyễn Trần Tiến-2174802010534 (Trưởng nhóm)
+2. Trương Đình Huy-2174802010542
+3. Nguyễn Xuân Thiện-2174802015012
+4. Lưu Đức Tín-2174802010545
